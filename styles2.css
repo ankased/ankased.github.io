@@ -1,0 +1,15 @@
+.container{
+    margin: 150px auto;
+    width: 50%; 
+    padding: 0 10px 0 0;
+}
+
+img{
+    float: left;
+    width: 700px;
+    height: 500px;
+    padding: 0 10px 0 0;
+    
+}
+
+ 
